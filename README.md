@@ -1,7 +1,11 @@
-# About me
+
+<p align="center">
+  Hi there, I'm <a href="#" >Arsalan Javed</a>
 Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who loves to develop and learn about new technologies.
-<br>
-<h4>Im a Full Stack MERN Developer <h4>
+  </p>
+<h2 align="center">
+I'm a Full-Stack Web Developer Computer Engineer💻
+</h2> 
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 </ul>
