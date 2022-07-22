@@ -5,6 +5,6 @@
 <br>
 Currently, working on Web Development using MERN full stack 
   <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark))](https://github.com/Arsalan40/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40)](https://github.com/anuraghazra/github-readme-stats)
