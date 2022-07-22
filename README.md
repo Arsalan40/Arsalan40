@@ -8,9 +8,9 @@ I'm a Computer Engineer💻 & Full-Stack Web Developer <a href="https://github.c
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 </ul>
- 
+<br>
 <h2 align="center"><a href="https://linktr.ee/arsalanjaved" alt="Arsalan Javed">🤝 Let's Connect!</a><h2>
-</br>
+  
   <h3>:fire: My Stats :</h3>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
