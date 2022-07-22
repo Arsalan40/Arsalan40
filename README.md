@@ -3,7 +3,7 @@
   Hi there, I'm <a href="#" >Arsalan Javed</a>
   </h3>
 <h2 align="center">
-I'm a Computer Engineer💻 & Full-Stack Web Developer <img src="Images/code.png" width="30" height="30">
+I'm a Computer Engineer💻 & Full-Stack Web Developer <img src="Images/dev.png" width="30" height="30">
 </h2> 
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
