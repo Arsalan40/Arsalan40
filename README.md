@@ -8,6 +8,7 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
     
 </ul>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
