@@ -5,7 +5,7 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 </ul>
-  ### :fire: My Stats :
+  <h3>:fire: My Stats :</h3>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
 
