@@ -1,7 +1,7 @@
 
-<p align="center">
+<h3 align="center">
   Hi there, I'm <a href="#" >Arsalan Javed</a>
-  </p>
+  </h3>
 <h2 align="center">
 I'm a Full-Stack Web Developer Computer Engineer💻
 </h2> 
@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer Computer Engineer💻
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 </ul>
  
-<h2><a href="https://linktr.ee/arsalanjaved" alt="Arsalan Javed">🤝 Let's Connect!</a><h2>
+<h2 align="center"><a href="https://linktr.ee/arsalanjaved" alt="Arsalan Javed">🤝 Let's Connect!</a><h2>
 </br>
   <h3>:fire: My Stats :</h3>
   
