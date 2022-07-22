@@ -1,13 +1,13 @@
 # About me
 Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who loves to develop and learn about new technologies.
 <br>
-<h4>Im a Full Stack MERN Developer 🔥<h4>
+<h4>Im a Full Stack MERN Developer <h4>
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 
     
 </ul>
-
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
