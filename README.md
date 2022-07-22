@@ -1,7 +1,8 @@
 # About me
 Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who loves to develop and learn about new technologies.
 <br>
-<h3>Currently, working on Web Development, MERN full stack. 🔥<h3>
+<h4>Im a Full Stack MERN Developer 🔥<h4>
+  - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -10,7 +11,7 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
   # Tools Used
 
 <p align="center">
-<a href="#">
+<a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   </p>
@@ -34,10 +35,10 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
 <a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/desktop.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
-<a href="#">
+<a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   </p>
