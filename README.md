@@ -1,8 +1,8 @@
 # About me
-Hello there! My name is Usman Aslam and I am a tech enthusiast hyperfocused on the latest technological trends who loves to play video games and learn about new things. 🖥️ 🎮
+Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who loves to develop and learn about new technologies.
 <br>
-Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Verilog and Power Platform tools. 🔥
+Currently, working on Web Development, MERN full stack. 🔥
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
