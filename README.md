@@ -1,7 +1,6 @@
 
 <p align="center">
   Hi there, I'm <a href="#" >Arsalan Javed</a>
-Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who loves to develop and learn about new technologies.
   </p>
 <h2 align="center">
 I'm a Full-Stack Web Developer Computer Engineer💻
