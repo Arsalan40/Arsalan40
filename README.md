@@ -9,7 +9,7 @@ I'm a Computer Engineer💻 & Full-Stack Web Developer <img src="Images/dev.png"
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
 </ul>
 <h2 align="center">
-  <a href="https://linktr.ee/arsalanjaved" alt="Arsalan Javed">🤝 Let's Connect!</a>
+  <a href="https://linktr.ee/arsalanjaved" target="_blank" alt="Arsalan Javed">🤝 Let's Connect!</a>
 </h2>
   <h3>:fire: My Stats :</h3>
   
