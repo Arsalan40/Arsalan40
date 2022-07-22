@@ -28,5 +28,17 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
   </p>
+  # Areas of work
+<p align="center">
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/desktop.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+ </p>
 
 
