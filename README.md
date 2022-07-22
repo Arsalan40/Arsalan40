@@ -7,18 +7,14 @@ Hi there! My name is Arsalan Javed and I am a Computer Engineer 🖥️ who love
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-  # Tools used
+  # tt
 
 <p align="center">
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  
   </a>
   </p>
   
-    # Languages
 
-<p align="center">
-<a href="#">
-  </a>
-  </p>
 
