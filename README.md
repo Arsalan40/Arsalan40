@@ -6,7 +6,7 @@
 I'm a Computer Engineer💻 & Full-Stack Web Developer <img src="Images/dev.png" target="_blank" width="35" height="35" align="center">
 </h2> 
   <ul>
-  <li> Graduated NUST'22 <a <img src="Images/Graduate-Hat.png" width="35" height="35"/></a> </li>
+  <li> Graduated NUST'22 <img src="Images/Graduate-Hat.png" width="35" height="35"/></li>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
   <li>Starting a Professional life :)</li>
 </ul>
