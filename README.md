@@ -14,15 +14,10 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
 <h2 align="center">
   <a href="https://linktr.ee/arsalanjaved"  target="_blank" alt="Arsalan Javed">🤝 Let's Connect!</a>
 </h2>
-  <h3>:fire:STATS :</h3>
-  
+  <h3>:fire:STATS :</h3>   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
   # Tools Used
 
 <p align="center">
@@ -44,11 +39,21 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
   <p align="center">
     <a>
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  </a>
+  <a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+  </a>
+  <a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  </a>
+  <a>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
+  </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp; 
+  </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
   </a>
   </p>
   
@@ -56,9 +61,23 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
   <p align="center">
   <a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="60" height="60"/>
+  </a>
+  <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet Core" alt="DotNet Core" width="60" height="60"/>&nbsp; 
+  </a>
+  <a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;  
 </a>
+  </p>
+  
+  # CMS
+  <p align="center">
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="60" height="60"/>&nbsp; 
+  </a>
+   <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" alt="WooCommerce" width="60" height="60"/>&nbsp; 
+  </a>
   </p>
   
   # Areas of work
