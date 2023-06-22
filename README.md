@@ -44,30 +44,12 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
   </p>
   
    # Languages
-   [![Javascript Badge](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f0db4f)](*)
-  <p align="center">
-    <a>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  </a>
-  <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  </a>
-  <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  </a>
-  <a>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp; 
-  </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp; 
-  </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
-  </a>
-  </p>
-  
+   [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)[![Javascript Badge](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f0db4f)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySql-00758f?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=f29111)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#)[![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd343)](#)
+[![C# Badge](https://img.shields.io/badge/-Csharp-A020F0?style=for-the-badge&labelColor=black&logo=Csharp&logoColor=A020F0)](#)
+
   # Frameworks
-  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](*)[![DotNet Badge](https://img.shields.io/badge/-DotNet-f0db4f?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=f0db4f)](*)
+  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](*)[![DotNet Badge](https://img.shields.io/badge/-DotNet-512bd4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512bd4)](*)
   <p align="center">
   <a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="60" height="60"/>
