@@ -3,8 +3,8 @@
   Hi there, I'm <a href="https://arsalan40.github.io/ArsalanJaved/" >Arsalan Javed</a>
   </h2>
 <h2 align="center">
-I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" target="_blank" width="35" height="35" align="center">
-<br> <div> <a href="https://www.linkedin.com/in/arsalan-javed40/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a></div>
+I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png" target="_blank" width="35" height="35" align="center">
+<br> <div> <a href="https://www.linkedin.com/in/arsalan-javed40/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="40px"/></a></div>
 </div>
 
 </h2> 
