@@ -24,8 +24,8 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 # Tools Used
 
 <p align="center">
