@@ -50,31 +50,11 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
 
   # Frameworks
   [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![DotNet Badge](https://img.shields.io/badge/-DotNet-512bd4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512bd4)](#)
-  <p align="center">
-  <a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="60" height="60"/>
-  </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet Core" alt="DotNet Core" width="60" height="60"/>&nbsp; 
-  </a>
-  <a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;  
-</a>
-  </p>
-  
+ 
   # CMS
   [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-21759b?style=for-the-badge&labelColor=black&logo=Wordpress&logoColor=21759b)](#)
-  [![Wordpress Badge](https://img.shields.io/badge/-Woocommerce-96588a?style=for-the-badge&labelColor=black&logo=Woocommerce&logoColor=96588a)](#)
-  <p align="center">
-    
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="60" height="60"/>&nbsp; 
-  </a>
-   <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" alt="WooCommerce" width="60" height="60"/>&nbsp; 
-  </a>
-  </p>
-  
+  [![Woocommerce Badge](https://img.shields.io/badge/-Woocommerce-96588a?style=for-the-badge&labelColor=black&logo=Woocommerce&logoColor=96588a)](#)
+
   # Areas of work
 <p align="center">
 <a>
