@@ -20,13 +20,9 @@ I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png"
 </h2>
   <h3>:fire:STATS :</h3>   
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)]()
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)]()[![Arsalan's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=15)]()
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=10)]()
-
-# Tools Used
+# Tools Used15
 [![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7)](#)
 [![VS Badge](https://img.shields.io/badge/-Visual_Studio-7f00ff?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=7f00ff)](#)
 [![Pycharm Badge](https://img.shields.io/badge/-Pycharm-D6E865?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=D6E865)](#)
