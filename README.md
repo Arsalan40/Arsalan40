@@ -4,10 +4,13 @@
   </h2>
 <h2 align="center">
 I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" target="_blank" width="35" height="35" align="center">
+<br> <div> <a href="https://www.linkedin.com/in/arsalan-shakil/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a></div>
+</div>
+
 </h2> 
   <ul>
   <li> Graduated NUST'22 <img src="Images/Graduate-Hat.png" width="35" height="35"/></li>
-  <li>I’m working as a Software Engineer and contributing to frontend for building web applications.</li>
+  <li>I’m a Software Engineer contributing to the front end for building web applications.</li>
   <li>Co-Founder & Web Developer @ <a href="https://www.linkedin.com/company/atinity-sol/">Atinity Solutions</a>
   <li>Starting a Professional life &#128526</li>
   <li>Focusing & Developing Skills &#127919</li>
