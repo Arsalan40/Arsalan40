@@ -27,22 +27,9 @@ I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=10)]()
 
 # Tools Used
-
-<p align="center">
-<a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
-  </a>
-    <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="Pycharm" style="vertical-align:top margin:6px 4px">
-  </a>
-    <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_datagrip.svg" alt="Data Grip" style="vertical-align:top margin:6px 4px">
-  </a>
-  </p>
-  
+[![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7)](#)
+[![VS Badge](https://img.shields.io/badge/-Visual_Studio-7f00ff?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=7f00ff)](#)
+[![Pycharm Badge](https://img.shields.io/badge/-Pycharm-D6E865?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=D6E865)](#)
    # Languages
    [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)[![Javascript Badge](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f0db4f)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySql-00758f?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=f29111)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#)[![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd343)](#)
