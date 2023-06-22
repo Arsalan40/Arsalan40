@@ -44,6 +44,7 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
   </p>
   
    # Languages
+   [![Javascript Badge](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f0db4f)](*)
   <p align="center">
     <a>
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -66,7 +67,7 @@ I'm a Computer Engineer💻 & Front-End Web Developer <img src="Images/dev.png" 
   </p>
   
   # Frameworks
-  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](*)[![Javascript Badge](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f0db4f)](*)
+  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](*)[![DotNet Badge](https://img.shields.io/badge/-DotNet-f0db4f?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=f0db4f)](*)
   <p align="center">
   <a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="60" height="60"/>
