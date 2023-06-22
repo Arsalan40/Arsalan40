@@ -20,7 +20,7 @@ I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png"
 </h2>
   <h3>:fire:STATS :</h3>   
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)]()
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
