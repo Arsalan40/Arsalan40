@@ -20,7 +20,7 @@ I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png"
 </h2>
   <h3>:fire:STATS :</h3>   
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)]()[![Arsalan's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)]()<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=15)]()
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB7D0C)](https://git.io/streak-stats)[![Arsalan's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)]()<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=15)]()
 
 # Tools Used15
 [![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7)](#)
