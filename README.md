@@ -1,3 +1,4 @@
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Arsalan40)](https://git.io/streak-stats) -->
 <h1 align="center">Hi there, I'm <a href="https://arsalan40.github.io/ArsalanJaved/" >Arsalan Javed</a> 👋</h1>
 
 <h3 align="center">I'm a Computer Engineer 💻 & Front-End Web Developer <img src="Images/dev.png" width="35" height="35" align="center"></h3>
