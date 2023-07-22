@@ -16,15 +16,14 @@
   </ul>
 </p>
 
-<h3 align="center">
+<h2 align="center">
   <a href="https://linktr.ee/arsalanjaved" target="_blank" alt="Arsalan Javed">🤝 Let's Connect!</a>
-</h3>
+</h2>
 
-<h2 align="center">🔥 STATS 🔥</h2>
-
+<h3 align="center">🔥 STATS 🔥</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB7D0C" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=Arsalan40&theme=react&fire=EB7D0C" alt="Arsalan's GitHub Streak" />
   </a>
 </p>
 
