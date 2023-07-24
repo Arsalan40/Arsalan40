@@ -18,13 +18,14 @@
 </p>
 
 <h2 align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arsalan40)](https://git.io/streak-stats)
   <a href="https://linktr.ee/arsalanjaved" target="_blank" alt="Arsalan Javed">🤝 Let's Connect!</a>
 </h2>
 
 <h3 align="center">🔥 STATS 🔥</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com/?user=Arsalan40&theme=react&fire=EB7D0C" alt="Arsalan's GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=Arsalan40&theme=dark" alt="Arsalan's GitHub Streak" />
   </a>
 </p>
 
