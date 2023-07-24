@@ -24,7 +24,7 @@
 <h3 align="center">🔥 STATS 🔥</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com/?user=Arsalan409&theme=react&fire=EB7D0C" alt="Arsalan's GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=Arsalan40&theme=react&fire=EB7D0C" alt="Arsalan's GitHub Streak" />
   </a>
 </p>
 
