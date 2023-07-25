@@ -18,7 +18,6 @@
 </p>
 
 <h2 align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arsalan40)](https://git.io/streak-stats)
   <a href="https://linktr.ee/arsalanjaved" target="_blank" alt="Arsalan Javed">🤝 Let's Connect!</a>
 </h2>
 
