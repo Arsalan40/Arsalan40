@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=dracula&langs_count=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&layout=compact&theme=react&langs_count=15" />
 </p>
 
 <h2 align="center">Tools Used 🛠️</h2>
